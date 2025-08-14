@@ -1,0 +1,57 @@
+2025-08-13 15:10:56,401 - INFO - Screen size detected: 2560x1600
+2025-08-13 15:11:10,226 - INFO - Supported resolutions for camera 0: [(1920, 1080)]
+2025-08-13 15:11:10,228 - INFO - Resolution list updated: ['1920x1080']
+2025-08-13 15:11:12,537 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:32,111 - INFO - Gesture control started
+2025-08-13 15:11:32,161 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:32,615 - INFO - Camera released successfully
+2025-08-13 15:11:32,616 - INFO - Camera turned off
+2025-08-13 15:11:36,961 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:36,961 - INFO - Gesture control started
+2025-08-13 15:11:37,122 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:37,554 - INFO - Camera released successfully
+2025-08-13 15:11:37,555 - INFO - Camera turned off
+2025-08-13 15:11:39,676 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:39,676 - INFO - Gesture control started
+2025-08-13 15:11:39,843 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:40,251 - INFO - Camera released successfully
+2025-08-13 15:11:40,251 - INFO - Camera turned off
+2025-08-13 15:11:42,413 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:42,413 - INFO - Gesture control started
+2025-08-13 15:11:42,573 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:42,989 - INFO - Camera released successfully
+2025-08-13 15:11:42,990 - INFO - Camera turned off
+2025-08-13 15:11:48,296 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:48,296 - INFO - Gesture control started
+2025-08-13 15:11:48,459 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:48,877 - INFO - Camera released successfully
+2025-08-13 15:11:48,877 - INFO - Camera turned off
+2025-08-13 15:11:50,973 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:11:50,973 - INFO - Gesture control started
+2025-08-13 15:11:51,142 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:11:51,567 - INFO - Camera released successfully
+2025-08-13 15:11:51,568 - INFO - Camera turned off
+2025-08-13 15:12:03,700 - INFO - Screen size detected: 2560x1600
+2025-08-13 15:12:17,117 - INFO - Supported resolutions for camera 0: [(1920, 1080)]
+2025-08-13 15:12:17,118 - INFO - Resolution list updated: ['1920x1080']
+2025-08-13 15:12:19,477 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:12:21,699 - INFO - Gesture control started
+2025-08-13 15:12:21,755 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:12:22,178 - INFO - Camera released successfully
+2025-08-13 15:12:22,178 - INFO - Camera turned off
+2025-08-13 15:12:27,398 - INFO - Screen size detected: 2560x1600
+2025-08-13 15:12:41,009 - INFO - Supported resolutions for camera 0: [(1920, 1080)]
+2025-08-13 15:12:41,010 - INFO - Resolution list updated: ['1920x1080']
+2025-08-13 15:12:43,357 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:12:58,880 - INFO - Supported resolutions for camera 0: [(1920, 1080)]
+2025-08-13 15:12:58,881 - INFO - Resolution list updated: ['1920x1080']
+2025-08-13 15:23:01,120 - INFO - Screen size detected: 2560x1600
+2025-08-13 15:23:14,607 - INFO - Supported resolutions for camera 0: [(1920, 1080)]
+2025-08-13 15:23:14,608 - INFO - Resolution list updated: ['1920x1080']
+2025-08-13 15:23:16,858 - INFO - Camera opened at index 0 with resolution 1920x1080
+2025-08-13 15:23:19,513 - INFO - Gesture control started
+2025-08-13 15:23:19,584 - ERROR - Error in update_camera: local variable 'gesture' referenced before assignment
+2025-08-13 15:23:20,004 - INFO - Camera released successfully
+2025-08-13 15:23:20,004 - INFO - Camera turned off
+2025-08-13 15:23:22,205 - INFO - Sensitivity updated to: 1.1104651162790697
+2025-08-13 15:23:22,222 - INFO - Sensitivity updated to: 1.127906976744186
